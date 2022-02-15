@@ -1,4 +1,4 @@
-# Spring Boot Maven Example Hello World
+# Spring Boot Maven Example changes in feature branch
 
 Guide
 
