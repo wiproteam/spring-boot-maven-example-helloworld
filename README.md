@@ -1,4 +1,4 @@
-# Spring Boot Maven Example changes in feature branch
+# Spring Boot Maven changes in feature branch
 
 Guide
 
